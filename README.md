@@ -1,7 +1,5 @@
 # examManagerSQL
 Java &amp; PostgreSQL Exam management system which includes all CRUD operations: create, read, update and delete on the SQL database using JDBC Driver.   
-## Overview
-An exam management platform designed to streamline the process of creating, managing, and exporting exams. Built with a strong focus on SQL and PostgreSQL, this platform leverages complex queries to provide a robust and efficient solution for educational institutions and educators.
 
 ## Features
 * User Authentication: Secure login system for lecturers with encrypted password storage.
